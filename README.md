@@ -1,1 +1,1 @@
-# Web-Image-Scrapping-Project
+Image scrapping and Web scrapping
